@@ -1,0 +1,9 @@
+# Credentials
+service_account.json
+
+# Data and Logs
+__pycache__/
+*.log
+
+# Local Config (if you move secrets there)
+local_config.py

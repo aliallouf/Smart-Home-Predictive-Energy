@@ -1,0 +1,7 @@
+numpy
+pandas
+joblib
+paho-mqtt
+tensorflow
+pyserial
+google-auth
