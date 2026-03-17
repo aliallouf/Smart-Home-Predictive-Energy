@@ -85,6 +85,7 @@ Clone the repository and install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
 ---
 
 ### 3. Configuration
@@ -97,6 +98,7 @@ pip install -r requirements.txt
   Update `config.py` with the correct paths:
   - Zigbee → `/dev/ttyUSB0`
   - LoRa → `/dev/ttyUSB1`
+
 ---
 
 ### 4. Running the System
